@@ -1,0 +1,23 @@
+.Data-item-con { 
+    width: 500px; 
+    /* height: 60px; */
+    display: flex; 
+    flex-direction: row;
+    justify-content: space-between; 
+    align-items: center; 
+    margin: 10px 0px; 
+    background-color: navy; 
+    color: oldlace; 
+    box-shadow: 10px 10px 5px grey;
+} 
+
+.note{
+    margin-left: 10px; 
+    width: 390px;
+} 
+
+.date{ 
+    width: 110px;
+    margin-right: 10px; 
+    padding: 7.5px 0px;
+}
